@@ -38,7 +38,7 @@ public class Main {
         // division to solve for factors
         factor = posInt/count;
         // prints to the user the factors
-        System.out.println(factor);
+        System.out.println(count);
       }
       // moves up one number and loop repeats unless greater than posInt
       count = count + 1;
